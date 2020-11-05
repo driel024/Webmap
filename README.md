@@ -1,2 +1,2 @@
 # Webmap
-Eerste webmap
+Eerste webmap voor GV.
